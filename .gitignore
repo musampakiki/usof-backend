@@ -1,3 +1,4 @@
-node_modules/
-.env-example
-package-lock.json
+node_modules
+.idea
+.git
+.DS_Store
